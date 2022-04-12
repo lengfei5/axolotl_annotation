@@ -144,4 +144,3 @@ xx <- sortSeqlevels(xx)
 xx <- sort(xx, ignore.strand=TRUE)
 
 export(xx, con = paste0(resDir, '/AmexT_v48.Hox_UCSC.gtf'), format = 'gtf')
-
