@@ -18,3 +18,8 @@ aa$gene = annot$geneID[match(aa$V1, annot$transcritID)]
 
 write.table(aa, file = paste0(inputDir, 'AmexT_v47_transcripts_genes_t2g.txt'), 
             col.names = FALSE, row.names = FALSE, quote = FALSE, sep = '\t')
+
+
+
+
+
