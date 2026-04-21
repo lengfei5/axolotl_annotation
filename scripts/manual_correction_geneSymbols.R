@@ -24,7 +24,6 @@ saveRDS(annot, file = paste0(annotDir,
                              'geneAnnotation_geneSymbols_cleaning_synteny_sameSymbols.hs.nr_curated.geneSymbol.toUse_manual_v1.rds'))
 
 
-
 ##########################################
 # collect all genes  
 ##########################################
